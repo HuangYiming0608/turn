@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "mbit": "github:lzty634158/yahboom_mbit#7bcd03aacf79a0062f09da3d995c92d183ee2849",
-        "Croco-Kit": "github:lzty634158/Croco-Kit#e0ac1fb21990ccc7bd2006b0f906d66865eb4a16"
+        "Croco-Kit": "github:lzty634158/Croco-Kit#e0ac1fb21990ccc7bd2006b0f906d66865eb4a16",
+        "datalogger": "*"
     },
     "files": [
         "main.blocks",
@@ -17,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.26",
+        "target": "6.0.28",
         "targetId": "microbit"
     },
     "supportedTargets": [
